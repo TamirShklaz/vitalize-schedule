@@ -4,35 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26882a95-9ae9-444c-b2fe-35e834bfc311" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/approach.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/vitalize/_components/user-form.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/vitalize/add/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/vitalize/schedule/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/vitalize/shifts/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/db/drizzle.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/actions/error-handler-wrapper.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/actions/shift-test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/actions/shifts.actions.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/errors/client-action-error.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/errors/invalid.error.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/errors/not-founder.error.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/errors/server-action.error.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/errors/unauthorized.error.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/hooks/use-server-action-mutation.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/hooks/use-server-action-query.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/types/action.types.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middleware.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+    <list default="true" id="26882a95-9ae9-444c-b2fe-35e834bfc311" name="Changes" comment="First comnmit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/vitalize/add/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/vitalize/shifts/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db/drizzle.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/drizzle.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "TamirShklaz"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/TamirShklaz/vitalize-schedule.git",
+    "accountId": "2be59eba-b252-4fe0-a9a1-9df075fb97be"
+  }
+}]]></component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -149,8 +139,17 @@
       <workItem from="1728573113834" duration="1438000" />
       <workItem from="1728574560223" duration="1526000" />
       <workItem from="1728576092975" duration="1187000" />
-      <workItem from="1728592175381" duration="11104000" />
+      <workItem from="1728592175381" duration="11992000" />
     </task>
+    <task id="LOCAL-00001" summary="First comnmit">
+      <option name="closed" value="true" />
+      <created>1728603523760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728603523760</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +159,10 @@
         <option value="$PROJECT_DIR$/tailwind.config.js" />
       </list>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First comnmit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First comnmit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
