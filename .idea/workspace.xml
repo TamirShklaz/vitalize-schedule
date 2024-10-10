@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26882a95-9ae9-444c-b2fe-35e834bfc311" name="Changes" comment="First comnmit">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/vitalize/add/page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/vitalize/shifts/page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/db/drizzle.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/drizzle.ts" afterDir="false" />
+    <list default="true" id="26882a95-9ae9-444c-b2fe-35e834bfc311" name="Changes" comment="Vercel db and cleanup">
+      <change beforePath="$PROJECT_DIR$/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +134,7 @@
       <workItem from="1728573113834" duration="1438000" />
       <workItem from="1728574560223" duration="1526000" />
       <workItem from="1728576092975" duration="1187000" />
-      <workItem from="1728592175381" duration="11992000" />
+      <workItem from="1728592175381" duration="12058000" />
     </task>
     <task id="LOCAL-00001" summary="First comnmit">
       <option name="closed" value="true" />
@@ -149,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728603523760</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Vercel db and cleanup">
+      <option name="closed" value="true" />
+      <created>1728604306382</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728604306382</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +165,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First comnmit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First comnmit" />
+    <MESSAGE value="Vercel db and cleanup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vercel db and cleanup" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
