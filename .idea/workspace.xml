@@ -4,21 +4,57 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26882a95-9ae9-444c-b2fe-35e834bfc311" name="Changes" comment="" />
+    <list default="true" id="26882a95-9ae9-444c-b2fe-35e834bfc311" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/approach.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vitalize/_components/user-form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vitalize/add/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vitalize/schedule/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vitalize/shifts/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db/drizzle.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/actions/error-handler-wrapper.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/actions/shift-test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/actions/shifts.actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/errors/client-action-error.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/errors/invalid.error.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/errors/not-founder.error.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/errors/server-action.error.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/errors/unauthorized.error.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/hooks/use-server-action-mutation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/hooks/use-server-action-query.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/types/action.types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middleware.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="OptimizeOnSaveOptions">
     <option name="myRunOnSave" value="true" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2nFeB4IsWFjBKimXRAzWIJko7gc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,27 +62,74 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Docker.docker-compose.yml: Compose Deployment.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "code.cleanup.on.save": "true",
     "git-widget-placeholder": "main",
     "javascript.nodejs.core.library.configured.version": "21.6.2",
     "javascript.nodejs.core.library.typings.version": "22.7.4",
-    "last_opened_file_path": "/Users/tamirshklaz/Documents/Programming.tmp/starters/nextjs",
+    "last_opened_file_path": "/Users/tamirshklaz/Documents/Programming.tmp/starters/nextjs/src/lib",
+    "node.js.detected.package.standard": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "/Users/tamirshklaz/.nvm/versions/node/v21.6.2/bin/node",
     "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "/Users/tamirshklaz/Documents/Programming.tmp/learning/interview-prep/yc-prep/api-prep/todo-api-9-aug/node_modules/.pnpm/prettier@3.3.3/node_modules/prettier",
-    "settings.editor.selected.configurable": "settings.nodejs",
+    "npm.dev.executor": "Debug",
+    "prettierjs.PrettierConfiguration.Package": "/Users/tamirshklaz/Documents/Programming.tmp/starters/nextjs/node_modules/prettier",
+    "settings.editor.selected.configurable": "actions.on.save",
     "ts.external.directory.path": "/Users/tamirshklaz/Documents/Programming.tmp/starters/nextjs/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/lib" />
+      <recent name="$PROJECT_DIR$/src/lib/actions" />
+      <recent name="$PROJECT_DIR$/src/lib/errors" />
+      <recent name="$PROJECT_DIR$/src/lib/types" />
+      <recent name="$PROJECT_DIR$/src/lib/hooks" />
     </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <EXTENSION ID="com.intellij.lang.javascript.buildTools.npm.rc.StartBrowserRunConfigurationExtension">
+        <browser name="0e6fc458-aecb-4fd3-ae34-beb3eefdbf27" start="true" url="http://localhost:3000" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+      <item itemvalue="npm.dev" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -63,7 +146,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728573112730</updated>
-      <workItem from="1728573113834" duration="597000" />
+      <workItem from="1728573113834" duration="1438000" />
+      <workItem from="1728574560223" duration="1526000" />
+      <workItem from="1728576092975" duration="1187000" />
+      <workItem from="1728592175381" duration="11104000" />
     </task>
     <servers />
   </component>
@@ -74,5 +160,16 @@
         <option value="$PROJECT_DIR$/tailwind.config.js" />
       </list>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app/layout.tsx</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

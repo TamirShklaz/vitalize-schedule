@@ -1,0 +1,45 @@
+Stack app
+Nurses -> schedules, requests PTO, shifts
+
+
+Nurse manager
+Manager schedule
+
+Manager schedule
+- Grid of assignments
+
+
+A manager should be able to:
+- Add assignment
+- Delete an assignment
+
+- Front end 3 days, don't need to be able to change the date.
+- Backed should be able to handle infinite days
+
+Out of scope
+- Times
+- Build out infinite days for the backend
+- No authentication
+
+
+Schema:
+- nurses
+    - id
+    - name
+- assignments
+    - date
+    - nurse_id
+
+
+ Frontend
+ - /schedule
+    - table
+
+ Backend
+ - getSchedule - [{date, nurses: [{name]}]
+ - addAssignment - {date, nurse_id}
+ - deleteAssignment - {date, nurse_id}
+
+
+
+UI for the table
